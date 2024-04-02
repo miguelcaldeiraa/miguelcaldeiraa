@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning: Applied Artificial Intelligence and Machine Learning - ISEG - Executive Education.
 - 💞️ I’m looking to collaborate on data science, machine learning and artificial intelligence projects.
 - 📫 How to reach me miguelcaldeiraaa@gmail.com.
-- ⚡ Fun fact: I've discovered that my cat's sleeping patterns follow a predictable trend when analyzed using time series analysis techniques! 🐱💤
 
 <!---
 miguelcaldeiraa/miguelcaldeiraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
