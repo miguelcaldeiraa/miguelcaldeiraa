@@ -1,4 +1,5 @@
 ## Hi, I’m @miguelcaldeiraa 👋
+Welcome to my [DS-ML-AI Portfolio](https://github.com/miguelcaldeiraa/DS-ML-AI-Portefolio)!
 
 - 🎓 **Postgraduate in Applied Artificial Intelligence & Machine Learning** from the **Lisbon School of Economics and Management (ISEG)**.
 - 💼 **Junior Data Engineer** at **Timestamp** with expertise in scalable data pipelines, ETL processes, and cloud technologies such as Azure Databricks and Azure Data Factory.
