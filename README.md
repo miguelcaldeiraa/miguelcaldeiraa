@@ -6,11 +6,11 @@ Welcome to my [Portfolio](https://github.com/miguelcaldeiraa/DS-ML-AI-Portefolio
 - 🧠 **AI/ML Enthusiast** with hands-on experience in model development, including supervised and unsupervised learning, time series forecasting, and generative AI.
 - 🔍 Passionate about leveraging data engineering and AI/ML to create impactful, data-driven solutions and insights.
 
-### 🚀 Current Focus
-- **AI Management** - Focused on applying AI for project profitability, specifically in railway maintenance with an IoT focus.
-- **AI Data Modelling** - Involved in projects such as predicting diamond prices using Python.
-- **Machine Learning Projects** - Including predicting Steam playtime using Random Forest, segmenting bank customers with K-Means and DBSCAN, and forecasting aircraft maintenance using ARIMA, SARIMA, and LSTM.
-- **Computer Vision & Generative AI** - Implementing object detection using YOLO and fine-tuning the LLaMA 3.2 model for text generation and sentiment analysis.
+### 🚀 **Current Focus**  
+- **AI Management** – Applying AI to enhance project profitability, with a particular interest in railway maintenance and IoT integration.  
+- **AI Data Modelling** – Working on predictive analytics and data-driven decision-making.  
+- **Machine Learning Applications** – Experience with various ML techniques, including clustering, time series forecasting, and predictive modeling.  
+- **Computer Vision & Generative AI** – Exploring object detection, fine-tuning language models, and sentiment analysis.  
 
 ### 📈 Skills and Expertise
 - **Technical:** Python, SQL, AI/ML, Azure, Databricks, Power BI
