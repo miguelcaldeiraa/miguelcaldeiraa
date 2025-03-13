@@ -7,7 +7,7 @@ Welcome to my [Portfolio](https://github.com/miguelcaldeiraa/DS-ML-AI-Portefolio
 - 🔍 Passionate about leveraging data engineering and AI/ML to create impactful, data-driven solutions and insights.
 
 ### 🚀 **Current Focus**  
-- **AI Management** – Applying AI to enhance project profitability, with a particular interest in railway maintenance and IoT integration.  
+- **AI Management** – Applying AI to enhance project profitability.
 - **AI Data Modelling** – Working on predictive analytics and data-driven decision-making.  
 - **Machine Learning Applications** – Experience with various ML techniques, including clustering, time series forecasting, and predictive modeling.  
 - **Computer Vision & Generative AI** – Exploring object detection, fine-tuning language models, and sentiment analysis.  
