@@ -1,4 +1,4 @@
-## Hi, I’m @miguelcaldeiraa 👋
+## Hi, I’m Miguel Caldeira 👋
 Welcome to my [Portfolio](https://github.com/miguelcaldeiraa/DS-ML-AI-Portefolio), featuring projects in data science, machine learning, and artificial intelligence.
 
 - 🎓 **Postgraduate in Applied Artificial Intelligence & Machine Learning** from the **Lisbon School of Economics and Management (ISEG)**.
